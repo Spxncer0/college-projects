@@ -7,4 +7,3 @@ print('Name: ' + name)
 print('Age: ' + age)
 print('Favourite Colour: ' + favourite_colour)
 # This prints out the variables
-print('hello')
