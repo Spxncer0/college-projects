@@ -1,3 +1,5 @@
+# Started 14/10/23
+
 name = input('What is your name?: ')
 age = input('How old are you?: ')
 favourite_colour = input('What is your favourite colour?: ')

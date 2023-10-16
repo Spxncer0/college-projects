@@ -1,3 +1,5 @@
+# Started 15/10/23
+
 # Asking function
 while True:
     function = input('1. Add\n2. Subtract\n3. Multiply\n4. Divide\nWhat function do you want to use? (Please enter the number): ')

@@ -1,3 +1,5 @@
+# Started 14/10/23
+
 # Importing random module
 import random
 

@@ -1,3 +1,5 @@
+# Started 15/10/23
+
 # Catching user error
 while True:
   try:

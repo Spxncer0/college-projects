@@ -1,3 +1,5 @@
+# Started 14/10/2023
+
 # Setting height and width of the rectangle
 while True:
   try:
