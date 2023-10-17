@@ -1,2 +1,2 @@
 # collegeProjects
- Induction to Python
+ My best attempt at projects assigned at college
